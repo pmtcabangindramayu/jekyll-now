@@ -13,7 +13,7 @@ permalink: /about/
 Treni ingin menjadi bagian dari kehidupan masyarakat yang selaras dengan inovasi yang terus diberikan dalam menunjang kehidupan.
 
 
-> Kerjasama adalah nilai yang kami tanamkan dalam mencapai tujuan dan mengembangkan komunitasdengan men-sinergikan potensi sumber daya manusia, ekonomi dan teknologi digital.Kami setulus hati dalam mendukung serta menjalin silaturahmi, membangun relasi, saling berbagidan memperluas rezeki menuju kehidupan yang lebih baik.
+> Kerjasama adalah nilai yang kami tanamkan dalam mencapai tujuan dan mengembangkan komunitas dengan men-sinergikan potensi sumber daya manusia, ekonomi dan teknologi digital. Kami setulus hati dalam mendukung serta menjalin silaturahmi, membangun relasi, saling berbagi dan memperluas rezeki menuju kehidupan yang lebih baik.
 
 
 ### Manfaat & Keuntungan
@@ -35,11 +35,17 @@ Treni menawarkan beberapa bentuk kerjasama, antara lain sebagai User, Partner, A
 ### More Information
 
 PayTren Office
+
 PT Veritra Sentosa Internasional
-The Suites Office Park, Blok E5 - E7Jl 
+
+The Suites Office Park, Blok E5 - E7Jl
+
 Soekarno Hatta No 693 Bandung, Indonesia 40286
+
 Telp : +62 22 73515100 (Office Hour)
+
 Customer Service :+62 8112107888 (24 Hour)
+
 Email : care@paytren.co.id
 
 ### Contact me
