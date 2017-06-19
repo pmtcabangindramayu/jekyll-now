@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+PAYTREN MILLIONAIRE TEAM (PMT) adalah Dream Team komunitas TRENI PT. VERITRA SENTOSA INTERNASIONAL dengan produk unggulannya yaitu PAYTREN aplikasi Digital MultiPayment.
 
 ### More Information
 
