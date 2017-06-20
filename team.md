@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Meet The Team
+title: The Team
 permalink: /team/
 ---
 ![alt text](http://hilmi-sponsor-paytren.appspot.com/image/Yusuf-Mansur.png "UYM")
