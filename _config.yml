@@ -6,7 +6,8 @@
 name: PMT INDRAMAYU
 
 # Short bio or description (displayed in the header)
-description: PayTren Millionaire Team (PMT) Cabang Indramayu
+description: Static Site PayTren Millionaire Team (PMT) Cabang Indramayu
+
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/pmtcabangindramayu/pmtcabangindramayu.github.io/master/images/pmtim.jpg
@@ -18,15 +19,15 @@ avatar: https://raw.githubusercontent.com/pmtcabangindramayu/pmtcabangindramayu.
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: pmtcabangindramayu@gmail.com
   facebook: pmt
   flickr:
-  github: pmtcabangindramayu/pmtcabangindramayu.github.io
-  instagram:
+  github: 
+  instagram: pmt
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: pmt
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
