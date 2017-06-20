@@ -8,7 +8,7 @@ PayTren adalah teknologi yang dikembangkan oleh PT Veritra Sentosa Internasiona
 
 #### Bukan Sekedar Aplikasi Biasa
 
-![alt text](https://github.com/pmtcabangindramayu/pmtcabangindramayu.github.io/master/images/paytren.jpg "paytren")
+![alt text](/images/paytren.jpg)
 
 
 #### PayTten Memenuhi Kebutuhan Segala Macam Transaksi:
