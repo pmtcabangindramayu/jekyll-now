@@ -8,10 +8,10 @@ PayTren adalah teknologi yang dikembangkan oleh PT Veritra Sentosa Internasiona
 
 #### Bukan Sekedar Aplikasi Biasa
 
-![alt text](/images/paytren.jpg)
+![alt text](/images/paytren.jpg "paytren")
 
 
-#### PayTten Memenuhi Kebutuhan Segala Macam Transaksi:
+#### PayTren Memenuhi Kebutuhan Segala Macam Transaksi:
 * Trx Pulsa
 * Trx Token Listrik
 * Trx Voucher Games
@@ -25,6 +25,16 @@ PayTren adalah teknologi yang dikembangkan oleh PT Veritra Sentosa Internasiona
 * Aqiqah
 * Qurban
 * Dan masih banyak lagi lainnya...
+
+#### Potensi Income Bisnis
+* Komisi Penjualan Langsung (Referral)
+* Komisi Leadership
+* Komisi Pengembangan Penjualan Langsung
+* Komisi Pengembangan Komunitas
+* Cashback Transaksi Pribadi
+* Cashback Transaksi Mitra Langsung
+* Cashback Transaksi Komunitas
+* Cashback Belanja di Merchant-merchant Treni & Produk Treni
 
 
 
