@@ -8,3 +8,20 @@ PayTren adalah teknologi yang dikembangkan oleh PT Veritra Sentosa Internasiona
 
 #### Bukan Sekedar Aplikasi Biasa
 (/images/paytren.jpg)
+
+#### PayTten Memenuhi Kebutuhan Segala Macam Transaksi:
+
+..* Trx Pulsa
+..* Trx Token Listrik
+..* Trx Voucher Games
+..* Bayar PLN Pasca
+..* Bayar PDAM
+..* Iuran BPJS
+..* Pemesanan Tiket Kereta/ Pesawat
+..* Bayar Leasing
+..* Transaksi Toko online
+..* Sedekah
+..* Aqiqah
+..* Qurban
+..* Dan masih banyak lagi lainnya...
+
