@@ -1,7 +1,9 @@
 ---
 layout: page
-title: PayTren
-permalink: /paytren/
+title: Teknologi PayTren
+permalink: /teknologi-paytren/
 ---
 
-test
+PayTren adalah teknologi yang dikembangkan oleh PT Veritra Sentosa Internasional (Treni) dimana setiap mitra yang telah terdaftar di komunitas PayTren dapat melakukan pembayaran semua kebutuhan pribadi serta mendapatkan berbagai benefit (berupa cashback) yang tidak diperoleh dari sistem POP maupun PPOB yang ada.
+
+#### Bukan Sekedar Aplikasi Biasa
