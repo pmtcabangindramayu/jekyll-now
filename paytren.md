@@ -35,7 +35,7 @@ PayTren adalah teknologi yang dikembangkan oleh PT Veritra Sentosa Internasiona
 * Cashback Transaksi Mitra Langsung
 * Cashback Transaksi Komunitas
 * Cashback Belanja di Merchant-merchant Treni & Produk Treni
-Kunjungi Web Support [PayTren Millionaire Team](https://paytrenmillionaire.com/hilmi)
+* Selengkapnya kunjungi Web Support [PayTren Millionaire Team](https://paytrenmillionaire.com/hilmi)
 
 
 
