@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PayTren Makin Keren
+title: PayTren Booming dan Mendunia
 ---
 
 Kami perlu banyak-banyak terimakasih kepada semua orang yg turut serta mendukung dan mendo'akan Paytren.
